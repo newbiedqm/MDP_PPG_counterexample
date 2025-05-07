@@ -1,2 +1,3 @@
-# MDP_PPG_counterexample
-Projected Policy Gradient method fails to converge to an global optimal policy
+# MDP_PPGI_counterexample
+
+Python 3.13 required.
